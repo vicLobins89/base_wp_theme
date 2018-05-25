@@ -1,2 +1,2 @@
-# seq_theme
-Sequentra WordPress Theme
+# base wp theme
+Base WordPress Theme
